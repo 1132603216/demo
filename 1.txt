@@ -1,1 +1,5 @@
-hello
+添加 git add 1.txt
+提交 git commit -m "提交1"
+git commit --amend   重新提交注释
+查看提交历史 git log
+okok
